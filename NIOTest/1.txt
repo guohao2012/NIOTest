@@ -1,3 +1,4 @@
+branch2在github上有修改2
 branch2在github上有修改
 我在branch2上修改了这个文件，我要合并到主干上去
 我在本地也更新了这个文件
