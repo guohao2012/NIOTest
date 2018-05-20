@@ -29,6 +29,10 @@ import org.junit.Test;
  */
 public class SocketBlockTest {
 	
+	/**
+	 * 服务端
+	 * @throws IOException
+	 */
 	@Test
 	public void server() throws IOException{
 		//创建服务端Socket通道，并绑定本机的9999端口
